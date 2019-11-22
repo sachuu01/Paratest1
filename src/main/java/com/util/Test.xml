@@ -1,0 +1,11 @@
+<suite name="Parrabank" thread-count="1" parallel="classes">
+
+<test name="test1">
+<classes>
+
+<class name="testcases.LoginPageTest"/>
+
+
+</classes>
+</test>
+</suite>

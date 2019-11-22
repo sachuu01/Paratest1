@@ -1,0 +1,7 @@
+com\base\TestBase.class
+com\pages\OpenNewAccountPage.class
+com\util\intefaces\IUManager.class
+com\util\UtilManager.class
+com\pages\AccountOverviewPage.class
+com\pages\LoginPage.class
+com\util\Testutil.class
